@@ -15,14 +15,15 @@ body {
 }
 
 #display {
-    max-width: 380px;
+    max-width: 378px;
     padding: 10px;
     margin: 0 auto;
     font-size: 5rem;
-    text-align: right;
+    text-align: left;
     border: none;
     background-color: hsl(0, 0%, 20%);
     color: #ffffff;
+    padding-left: 3%;
     margin-top: -20px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
