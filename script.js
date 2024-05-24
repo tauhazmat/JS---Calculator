@@ -1,5 +1,5 @@
 let display = document.getElementById("display");
-
+ 
 function displayNumber(input) {
     display.value += input;
 }
